@@ -1,5 +1,7 @@
 # Arduino Touch Screen Art Program
 
+![Demo](demo.gif)
+
 An interactive art show program for Arduino-based TFT touch screens using the MCUFRIEND_kbv library.
 
 ## Features
